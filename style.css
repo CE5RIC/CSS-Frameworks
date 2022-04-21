@@ -6,3 +6,9 @@ height: 50%;
 .container2 {
     height: 50%;
 }
+
+.col {
+    margin: 5px;
+    border-style: double;
+    background-color: lightgoldenrodyellow;
+}
